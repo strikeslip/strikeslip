@@ -4,8 +4,6 @@ Sounds of Seismic (SOS) is an electronica earthwork that continuously translates
 
 https://sos.allshookup.org/
 
-### Thesis
-
 SOS expands Robert Smithson's site/non-site dialectic into the digital realm. Where Smithson brought geological samples into galleries as "non-sites" referencing distant locations, SOS transforms the entire Internet into a non-site for Earth's seismic activity. The planet becomes the ultimate site-specific digital earthwork, with every tectonic shift contributing to an endless, evolving composition. The Earth is speaking through algorithmic interpretation, creating what may be the first truly planetary-scale artwork.
 
 SOS agents become sonic architects, leveraging decades of historical electroacoustic research and electronica synthesis techniques, to reimagine seismic events as real-time musical compositions. Where traditional sonification merely converts data to sound, SOS creates genuine artistic interpretation, deconstructing seismic events into granular textures, introducing 'electronica attenuation' that mirrors how seismic energy naturally decays through Earth's varied substrates.
@@ -21,4 +19,3 @@ SOS explores parallels between geological and biological communication systems. 
 SOS establishes Earth as active collaborator rather than passive subject, marking the moment when human creativity evolved to include geological intelligence as creative partner. SOS pioneers a new paradigm: art that listens to the planet and gives it voice, fundamentally transforming how humanity understands its place within Earth's deep time symphony.
 
 #### <i> "I can't understand why people are frightened of new ideas. I'm frightened of the old ones." </i> -- John Cage
-
